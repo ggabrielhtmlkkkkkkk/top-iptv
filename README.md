@@ -3,7 +3,7 @@ um serviço completamente brasileiro de IPTV. Com mais de 12 mil canais como his
 # como colocar na minha tv?
 coloque esse link na parte de m3u
 
-https://raw.githubusercontent.com/ggabrielhtmlkkkkkkk/top-iptv/refs/heads/main/iptv.m3u
+https://raw.githubusercontent.com/ggabrielhtmlkkkkkkk/top-iptv/refs/heads/main/iptv_fixed_final.m3u
 
 ou esse mais curto
 
