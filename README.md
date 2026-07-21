@@ -1,5 +1,5 @@
 # top-iptv
-um serviço completamente brasileiro de IPTV. Com mais de 12 mil canais como history, universal, adult swim, etc
+um serviço completamente brasileiro com canais internacionais de IPTV. Com mais de 12 mil canais como history, universal, adult swim, etc
 # como colocar na minha tv?
 coloque esse link na parte de m3u
 
