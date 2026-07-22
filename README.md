@@ -18,3 +18,4 @@ se voce achar um erro no codigo, por favor mande para mim
 aqui esta um web player para colocar a minha playlist
 
 https://opentvplayer.com/pt
+ estou fazendo um espere que ja vai sair
